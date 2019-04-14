@@ -12,6 +12,6 @@ void loop() {
   Serial.print("Moisture Percentage = ");
   Serial.print(moisture_percentage);
   Serial.print("%\n\n");
-  delay(1000);
+  delay(100);
 }
 ​​​​​
